@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/TPO6_KA_S28228"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="Java EE 6-Java EE 6" value="project"/>
+		<level name="lib" value="project"/>
+		<level name="slf4j-simple-2.1.0-alpha1" value="project"/>
+	</levels>
+</component>

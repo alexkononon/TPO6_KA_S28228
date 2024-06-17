@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Java EE 6-Java EE 6">
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.annotation.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.servlet.jsp.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.transaction.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.resource.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.jms.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.servlet.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.persistence.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.ejb.jar" />
+    <archive path="/Users/alexkononon/Documents/TPO/TPO6_KA_S28228/lib/javax.servlet.jsp.jstl.jar" />
+  </library>
+  <library name="lib">
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/hawtbuf-1.11.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jaxb-core-4.0.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/slf4j-api-2.0.12.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-web-6.1.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jaxb-runtime-4.0.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-jaas-6.1.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jackson-core-2.16.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-broker-6.1.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-client-6.1.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-protobuf-1.1.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-spring-6.1.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jakarta.jms-api-3.1.0.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jcl-over-slf4j-2.0.12.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-console-6.1.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jackson-databind-2.16.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jackson-annotations-2.16.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jakarta.xml.bind-api-4.0.0.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-kahadb-store-6.1.2.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/istack-commons-runtime-4.1.1.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jakarta.activation-api-2.1.1.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/jakarta.transaction-api-2.0.1.jar" />
+    <archive path="/Users/alexkononon/apache-activemq-6.1.2/lib/activemq-openwire-legacy-6.1.2.jar" />
+  </library>
+  <library name="slf4j-simple-2.1.0-alpha1">
+    <archive path="/Users/alexkononon/Documents/TPO/slf4j-simple-2.1.0-alpha1.jar" />
+  </library>
+</eclipse-userlibraries>
+
